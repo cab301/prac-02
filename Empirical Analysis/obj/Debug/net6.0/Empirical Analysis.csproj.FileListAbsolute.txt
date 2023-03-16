@@ -1,0 +1,15 @@
+C:\Users\autum\OneDrive - Queensland University of Technology (1)\Sessional Academic\2023 Semester 1\CAB301\Pracs\prac-2\Empirical Analysis\bin\Debug\net6.0\Empirical Analysis.exe
+C:\Users\autum\OneDrive - Queensland University of Technology (1)\Sessional Academic\2023 Semester 1\CAB301\Pracs\prac-2\Empirical Analysis\bin\Debug\net6.0\Empirical Analysis.deps.json
+C:\Users\autum\OneDrive - Queensland University of Technology (1)\Sessional Academic\2023 Semester 1\CAB301\Pracs\prac-2\Empirical Analysis\bin\Debug\net6.0\Empirical Analysis.runtimeconfig.json
+C:\Users\autum\OneDrive - Queensland University of Technology (1)\Sessional Academic\2023 Semester 1\CAB301\Pracs\prac-2\Empirical Analysis\bin\Debug\net6.0\Empirical Analysis.dll
+C:\Users\autum\OneDrive - Queensland University of Technology (1)\Sessional Academic\2023 Semester 1\CAB301\Pracs\prac-2\Empirical Analysis\bin\Debug\net6.0\Empirical Analysis.pdb
+C:\Users\autum\OneDrive - Queensland University of Technology (1)\Sessional Academic\2023 Semester 1\CAB301\Pracs\prac-2\Empirical Analysis\obj\Debug\net6.0\Empirical Analysis.csproj.AssemblyReference.cache
+C:\Users\autum\OneDrive - Queensland University of Technology (1)\Sessional Academic\2023 Semester 1\CAB301\Pracs\prac-2\Empirical Analysis\obj\Debug\net6.0\Empirical Analysis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\autum\OneDrive - Queensland University of Technology (1)\Sessional Academic\2023 Semester 1\CAB301\Pracs\prac-2\Empirical Analysis\obj\Debug\net6.0\Empirical Analysis.AssemblyInfoInputs.cache
+C:\Users\autum\OneDrive - Queensland University of Technology (1)\Sessional Academic\2023 Semester 1\CAB301\Pracs\prac-2\Empirical Analysis\obj\Debug\net6.0\Empirical Analysis.AssemblyInfo.cs
+C:\Users\autum\OneDrive - Queensland University of Technology (1)\Sessional Academic\2023 Semester 1\CAB301\Pracs\prac-2\Empirical Analysis\obj\Debug\net6.0\Empirical Analysis.csproj.CoreCompileInputs.cache
+C:\Users\autum\OneDrive - Queensland University of Technology (1)\Sessional Academic\2023 Semester 1\CAB301\Pracs\prac-2\Empirical Analysis\obj\Debug\net6.0\Empirical Analysis.dll
+C:\Users\autum\OneDrive - Queensland University of Technology (1)\Sessional Academic\2023 Semester 1\CAB301\Pracs\prac-2\Empirical Analysis\obj\Debug\net6.0\refint\Empirical Analysis.dll
+C:\Users\autum\OneDrive - Queensland University of Technology (1)\Sessional Academic\2023 Semester 1\CAB301\Pracs\prac-2\Empirical Analysis\obj\Debug\net6.0\Empirical Analysis.pdb
+C:\Users\autum\OneDrive - Queensland University of Technology (1)\Sessional Academic\2023 Semester 1\CAB301\Pracs\prac-2\Empirical Analysis\obj\Debug\net6.0\Empirical Analysis.genruntimeconfig.cache
+C:\Users\autum\OneDrive - Queensland University of Technology (1)\Sessional Academic\2023 Semester 1\CAB301\Pracs\prac-2\Empirical Analysis\obj\Debug\net6.0\ref\Empirical Analysis.dll
