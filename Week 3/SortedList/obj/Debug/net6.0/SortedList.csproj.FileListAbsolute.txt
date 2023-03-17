@@ -1,0 +1,15 @@
+C:\Users\MELTUser01\source\repos\Week 3\SortedList\bin\Debug\net6.0\SortedList.exe
+C:\Users\MELTUser01\source\repos\Week 3\SortedList\bin\Debug\net6.0\SortedList.deps.json
+C:\Users\MELTUser01\source\repos\Week 3\SortedList\bin\Debug\net6.0\SortedList.runtimeconfig.json
+C:\Users\MELTUser01\source\repos\Week 3\SortedList\bin\Debug\net6.0\SortedList.dll
+C:\Users\MELTUser01\source\repos\Week 3\SortedList\bin\Debug\net6.0\SortedList.pdb
+C:\Users\MELTUser01\source\repos\Week 3\SortedList\obj\Debug\net6.0\SortedList.csproj.AssemblyReference.cache
+C:\Users\MELTUser01\source\repos\Week 3\SortedList\obj\Debug\net6.0\SortedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MELTUser01\source\repos\Week 3\SortedList\obj\Debug\net6.0\SortedList.AssemblyInfoInputs.cache
+C:\Users\MELTUser01\source\repos\Week 3\SortedList\obj\Debug\net6.0\SortedList.AssemblyInfo.cs
+C:\Users\MELTUser01\source\repos\Week 3\SortedList\obj\Debug\net6.0\SortedList.csproj.CoreCompileInputs.cache
+C:\Users\MELTUser01\source\repos\Week 3\SortedList\obj\Debug\net6.0\SortedList.dll
+C:\Users\MELTUser01\source\repos\Week 3\SortedList\obj\Debug\net6.0\refint\SortedList.dll
+C:\Users\MELTUser01\source\repos\Week 3\SortedList\obj\Debug\net6.0\SortedList.pdb
+C:\Users\MELTUser01\source\repos\Week 3\SortedList\obj\Debug\net6.0\SortedList.genruntimeconfig.cache
+C:\Users\MELTUser01\source\repos\Week 3\SortedList\obj\Debug\net6.0\ref\SortedList.dll
